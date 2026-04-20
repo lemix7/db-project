@@ -24,3 +24,4 @@ npm-debug.log*
 # Database
 *.sqlite
 *.db.claude/
+CLAUDE.md
